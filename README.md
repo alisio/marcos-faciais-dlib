@@ -1,5 +1,7 @@
-# marcos-faciais-dlib
-# preparação do ambiente anaconda:
+# Marcos-faciais-dlib
+Extração de marcos faciais com dlib
+
+## preparação do ambiente anaconda:
 1. Instalar anaconda
 2. Criar ambiente python
 3. Abrir terminal e instalar as dependencias a seguir:
